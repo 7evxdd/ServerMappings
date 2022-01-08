@@ -1338,5 +1338,12 @@
         "addresses": [
             "tearfulmc.com"
         ]
+    },
+    {
+        "id": "horuspvp",
+        "name": "HorusPvP",
+        "addresses": [
+            "horuspvp.us"
+        ]
     }
 ]
